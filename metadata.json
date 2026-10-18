@@ -1,0 +1,6 @@
+{
+  "name": "KrishiBandhu",
+  "description": "Vernacular farmer marketplace & direct crop trading platform for Karnataka farmers with live APMC mandi prices and farm logistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

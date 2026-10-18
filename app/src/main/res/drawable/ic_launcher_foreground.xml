@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="54"
+        android:translateY="54">
+        <!-- Golden ear / sprout emblem centered at (0, 0) -->
+        <!-- Center stalk -->
+        <path
+            android:fillColor="#A3F69C"
+            android:pathData="M-1.5,18 L1.5,18 L1.5,-12 L-1.5,-12 Z" />
+        <!-- Top Grain Head -->
+        <path
+            android:fillColor="#FFDBC7"
+            android:pathData="M0,-24 C-4,-19 -4,-13 0,-8 C4,-13 4,-19 0,-24 Z" />
+        <!-- Right Grains -->
+        <path
+            android:fillColor="#FFB689"
+            android:pathData="M1.5,-14 C7,-19 14,-15 12,-9 C10,-4 3,-8 1.5,-9 Z" />
+        <path
+            android:fillColor="#FFB689"
+            android:pathData="M1.5,-4 C7,-9 15,-5 13,1 C10,6 3,2 1.5,1 Z" />
+        <path
+            android:fillColor="#A3F69C"
+            android:pathData="M1.5,6 C8,2 16,6 15,13 C12,18 4,13 1.5,11 Z" />
+        <!-- Left Grains -->
+        <path
+            android:fillColor="#FFB689"
+            android:pathData="M-1.5,-14 C-7,-19 -14,-15 -12,-9 C-10,-4 -3,-8 -1.5,-9 Z" />
+        <path
+            android:fillColor="#FFB689"
+            android:pathData="M-1.5,-4 C-7,-9 -15,-5 -13,1 C-10,6 -3,2 -1.5,1 Z" />
+        <path
+            android:fillColor="#A3F69C"
+            android:pathData="M-1.5,6 C-8,2 -16,6 -15,13 C-12,18 -4,13 -1.5,11 Z" />
+        <!-- Base Protective Leaves / Hands -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M-18,12 C-14,21 -2,22 0,22 C2,22 14,21 18,12 C10,17 2,17 0,17 C-2,17 -10,17 -18,12 Z" />
+        <!-- Glowing Sparkle / Direct Sun -->
+        <path
+            android:fillColor="#ACF4A4"
+            android:pathData="M0,-28 L1.5,-25 L4,-24 L1.5,-23 L0,-20 L-1.5,-23 L-4,-24 L-1.5,-25 Z" />
+    </group>
+</vector>
